@@ -1,4 +1,4 @@
 deck-of-cards
 =============
 
-Simple Deck of Cards model written in Java
+This is a simple Deck of Cards model written in Java, meant to demonstrate basic object-oriented programing concepts.
